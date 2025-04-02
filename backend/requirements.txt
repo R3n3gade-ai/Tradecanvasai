@@ -1,0 +1,22 @@
+# Workspace version: 1.43.7
+databutton==0.38.34
+ipykernel==6.29.5
+fastapi==0.111.0
+python-multipart==0.0.9
+uvicorn[standard]==0.29.0
+
+openai
+beautifulsoup4
+requests
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+alpaca-py
+msgpack-python
+websocket-client
+scipy
+polygon-api-client
+python-dotenv
+websockets
+pillow
